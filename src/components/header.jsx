@@ -154,13 +154,13 @@ export default function App() {
             <div className="text-xl underline font-bold text-green-700"> +91 7701858312</div>
         
           <div className="hidden md:flex justify-center md:justify-start space-x-4 mt-4 md:mt-6">
-            <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.facebook.com/profile.php?id=61560873622756" target="_blank" rel="noopener noreferrer">
               <Facebook className="w-6 h-6 text-black hover:text-gray-700" />
             </a>
             <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
               <Twitter className="w-6 h-6 text-black hover:text-gray-700" />
             </a>
-            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/thebeebark/" target="_blank" rel="noopener noreferrer">
               <Instagram className="w-6 h-6 text-black hover:text-gray-700" />
             </a>
           </div>
